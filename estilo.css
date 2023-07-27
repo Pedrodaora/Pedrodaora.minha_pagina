@@ -1,1 +1,55 @@
+<style>
+  /* Add styles for the body */
+  body {
+    font-family: Calibri;
+    margin: 0;
+    padding: 0;
+  }
 
+  /* Add styles for the header */
+  header {
+    background-color: lightblue;
+    padding: 0.2px;
+    font-family: Book Antiqua;
+    
+  }
+
+  /* Add styles for the navigation menu */
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0.2px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+  
+  }
+
+  nav li {
+    margin: 0 5px;
+      }
+
+  /* Add styles for the links in the navigation menu */
+  nav a {
+    font-family: Calibri;
+    font-size: 18px;
+    text-decoration: underline;
+    color: white;
+  }
+
+  /* Add styles for the main content */
+  main {
+    padding: 0px;
+    text-align: center;
+    font-size: 10px
+  }
+
+  /* Add styles for the footer *5
+  footer {
+    background-color: black;
+    padding: 0.1px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 10px;
+  }
+</style>
