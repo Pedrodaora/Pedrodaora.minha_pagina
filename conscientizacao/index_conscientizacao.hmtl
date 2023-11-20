@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="utf-8" />
+  	<link rel="stylesheet" type="text/css" href="conscientizacao.css">
+    <title> CURIOSIDADES </title>
+</head>
+<body>
+    
+    <header>
+      <h1 align="center">CONSCIENTIZAÇÃO DO PEDRODAORA</h1>
+    </header>
+    
+    <main>
+      <nav>
+        <ul>
+          <li><a href="https://htmlpreview.github.io/?https://github.com/LukinhasMat/minha_pagina/blob/main/oqe/index_oqe.html"> O QUE É? </a></li>
+          <li><a href="https://htmlpreview.github.io/?https://github.com/LukinhasMat/minha_pagina/blob/main/page_layout.html"> AGRADECIMENTOS </a></li>
+          <li><a href="../index.html">VOLTAR</a></li>
+        </ul>
+      </nav>
+
+      <nav>
+          <iframe width="420" height="315"
+           src="https://www.youtube.com/watch?v=J37UwsOcQ6I">
+          </iframe>
+      </nav>
+       
+      <p> 
+  Optar por não usar drogas é uma escolha que traz benefícios significativos para a saúde física e mental, qualidade de vida, independência financeira, autocontrole, segurança pessoal e social, e a realização de metas e sonhos. Além disso, a decisão de evitar drogas pode servir como um exemplo positivo para outros. Buscar ajuda profissional é uma opção corajosa se enfrentar desafios nesse caminho. Escolher uma vida sem drogas contribui para um bem-estar duradouro e uma vida mais plena.
+      </p>
+    </main>
+     
+    <footer>
+      Copyright © 2023 Pedrodaora
+    </footer>
